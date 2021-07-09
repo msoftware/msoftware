@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://www.dieletztedomain.de/feed/"
+          feed_list: "http://www.dieletztedomain.de/feed/,https://rss.app/feeds/OIluqfKr0EEWXsly.xml"
