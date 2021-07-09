@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:comicstrip-->
+<!--END_SECTION:comicstrip-->
+
 <!--
 **msoftware/msoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
