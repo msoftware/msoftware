@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=msoftware)](https://github.com/msoftware/github-readme-stats)
+
 #### Daylily Random comic strip
 <!--START_SECTION:comicstrip-->
 <p align="center">
