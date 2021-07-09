@@ -10,6 +10,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
 
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 #### Daylily Random comic strip
 <!--START_SECTION:comicstrip-->
 <p align="center">
