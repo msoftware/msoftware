@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Michael 👋
 
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
 
