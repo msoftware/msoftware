@@ -7,6 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=msoftware)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
 
 #### Daylily Random comic strip
 <!--START_SECTION:comicstrip-->
