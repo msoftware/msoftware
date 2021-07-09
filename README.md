@@ -10,7 +10,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Android Kiosk Mode App – So geht’s](http://www.dieletztedomain.de/android-kiosk-mode-app-so-gehts/)
+- [Android App auf SD-Karte verschiebbar machen](http://www.dieletztedomain.de/android-app-auf-sd-karte-verschiebbar-machen/)
+- [Geocodierung mit der Nominatim API](http://www.dieletztedomain.de/geocodierung-mit-der-nominatim-api/)
+- [Allocator (GPU_0_bfc) ran out of memory trying to allocate 17.49MiB with freed_by_count=0.](http://www.dieletztedomain.de/allocator-gpu_0_bfc-ran-out-of-memory-trying-to-allocate-17-49mib-with-freed_by_count0/)
+- [Android 9 Wristwatch S999](http://www.dieletztedomain.de/android-9-wristwatch-s999/)
+<!-- BLOG-POST-LIST:END -->
 
 #### Daylily Random comic strip
 <!--START_SECTION:comicstrip-->
