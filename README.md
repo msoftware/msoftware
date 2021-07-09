@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=msoftware)](https://github.com/msoftware/github-readme-stats)
 
 
