@@ -10,6 +10,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
 
+#### Latest blog posts (german)
 <!-- BLOG-POST-LIST:START -->
 - [Android Kiosk Mode App – So geht’s](http://www.dieletztedomain.de/android-kiosk-mode-app-so-gehts/)
 - [Android App auf SD-Karte verschiebbar machen](http://www.dieletztedomain.de/android-app-auf-sd-karte-verschiebbar-machen/)
