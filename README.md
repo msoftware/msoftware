@@ -12,7 +12,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
 
-#### Latest blog posts (german)
+#### Latest blog posts and some programming wisdom from @CodeWisdom :-)
 <!-- BLOG-POST-LIST:START -->
 - [@rakyll: Explicit is better than implicit. A little bit of boilerplate is better than not being able to understand your own code in a few months due to magic abstractions and syntactic sugar.](https://twitter.com/rakyll/status/1413172697492692993)
 - [@CodeWisdom: "I like their slogan 'making uncommon knowledge common' very much, but as far as I can tell Elsevier has not mastered this job well. Sci-Hub is helping them to fulfill their mission." – Alexandra Elbakyan](https://twitter.com/CodeWisdom/status/1412771204428095491)
