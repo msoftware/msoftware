@@ -1,0 +1,16 @@
+name: Comic Strip Readme
+
+on:
+    workflow_dispatch:
+    schedule:
+        # Runs at 8am UTC every Monday, Wednesday, Friday
+        - cron: "0 8 * * 1,3,5"
+
+jobs:
+    update-readme:
+        name: Update README with Comic Strip
+        runs-on: ubuntu-latest
+        steps:
+            - uses: ism0080/comicstrip-readme@v1.2
+              with:
+                  SHOW_XKCD: true
