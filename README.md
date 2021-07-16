@@ -14,11 +14,11 @@
 
 #### Latest blog posts and some programming wisdom from @CodeWisdom :-)
 <!-- BLOG-POST-LIST:START -->
-- [@rakyll: Explicit is better than implicit. A little bit of boilerplate is better than not being able to understand your own code in a few months due to magic abstractions and syntactic sugar.](https://twitter.com/rakyll/status/1413172697492692993)
-- [@CodeWisdom: "I like their slogan 'making uncommon knowledge common' very much, but as far as I can tell Elsevier has not mastered this job well. Sci-Hub is helping them to fulfill their mission." – Alexandra Elbakyan](https://twitter.com/CodeWisdom/status/1412771204428095491)
+- [[Action required] Your RSS.app Trial has Expired - Fri Jul 16 2021](https://rss.app)
 - [Android Kiosk Mode App – So geht’s](http://www.dieletztedomain.de/android-kiosk-mode-app-so-gehts/)
-- [@CodeWisdom: "In the emerging highly programmed landscape ahead, you will either create the software or you will be the software. It’s really that simple: Program, or be programmed." — Douglas Rushkoff](https://twitter.com/CodeWisdom/status/1410940574597849089)
 - [Android App auf SD-Karte verschiebbar machen](http://www.dieletztedomain.de/android-app-auf-sd-karte-verschiebbar-machen/)
+- [Geocodierung mit der Nominatim API](http://www.dieletztedomain.de/geocodierung-mit-der-nominatim-api/)
+- [Allocator (GPU_0_bfc) ran out of memory trying to allocate 17.49MiB with freed_by_count=0.](http://www.dieletztedomain.de/allocator-gpu_0_bfc-ran-out-of-memory-trying-to-allocate-17-49mib-with-freed_by_count0/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Daylily Random comic strip
