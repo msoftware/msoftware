@@ -25,7 +25,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/board_game_argument_legacy.png" />
+ <img src="https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
