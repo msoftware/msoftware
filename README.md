@@ -25,7 +25,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/immune_factory.png" />
+ <img src="https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
