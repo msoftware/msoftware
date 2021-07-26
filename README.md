@@ -25,7 +25,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png" />
+ <img src="https://imgs.xkcd.com/comics/dual_usb_c.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
