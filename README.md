@@ -25,7 +25,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/dual_usb_c.png" />
+ <img src="https://imgs.xkcd.com/comics/flawed_data.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
