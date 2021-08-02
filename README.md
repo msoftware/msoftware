@@ -25,7 +25,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/universal_seat_belt.png" />
+ <img src="https://imgs.xkcd.com/comics/mine_captcha.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
