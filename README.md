@@ -15,10 +15,6 @@
 #### Latest blog posts and some programming wisdom from @CodeWisdom :-)
 <!-- BLOG-POST-LIST:START -->
 - [[Action required] Your RSS.app Trial has Expired - Fri Aug 06 2021](https://rss.app)
-- [Android Kiosk Mode App – So geht’s](http://www.dieletztedomain.de/android-kiosk-mode-app-so-gehts/)
-- [Android App auf SD-Karte verschiebbar machen](http://www.dieletztedomain.de/android-app-auf-sd-karte-verschiebbar-machen/)
-- [Geocodierung mit der Nominatim API](http://www.dieletztedomain.de/geocodierung-mit-der-nominatim-api/)
-- [Allocator (GPU_0_bfc) ran out of memory trying to allocate 17.49MiB with freed_by_count=0.](http://www.dieletztedomain.de/allocator-gpu_0_bfc-ran-out-of-memory-trying-to-allocate-17-49mib-with-freed_by_count0/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Daylily Random comic strip
