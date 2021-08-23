@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png" />
+ <img src="https://imgs.xkcd.com/comics/news_story_reaction.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
