@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/circumappendiceal_somectomy.png" />
+ <img src="https://imgs.xkcd.com/comics/useful_geometry_formulas.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
