@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/recreate_the_conditions.png" />
+ <img src="https://imgs.xkcd.com/comics/revelation.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
