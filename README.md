@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/tsp_vs_tbsp.png" />
+ <img src="https://imgs.xkcd.com/comics/new_nobel_prizes.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
