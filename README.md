@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/dark_arts.png" />
+ <img src="https://imgs.xkcd.com/comics/censored_vaccine_card.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
