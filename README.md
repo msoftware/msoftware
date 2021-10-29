@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/slope_hypothesis_testing.png" />
+ <img src="https://imgs.xkcd.com/comics/retractable_rocket.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
