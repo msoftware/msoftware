@@ -14,7 +14,7 @@
 
 #### Latest blog posts and some programming wisdom from @CodeWisdom :-)
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Nov 06 2021](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Sun Nov 07 2021](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
 #### Daylily Random comic strip
