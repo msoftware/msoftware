@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/painbow_award.png" />
+ <img src="https://imgs.xkcd.com/comics/snack.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
