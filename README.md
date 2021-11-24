@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/heart_stopping_texts.png" />
+ <img src="https://imgs.xkcd.com/comics/bayes_theorem.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
