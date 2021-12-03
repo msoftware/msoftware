@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/awful_people.png" />
+ <img src="https://imgs.xkcd.com/comics/edge_cake.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
