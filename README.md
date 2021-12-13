@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/the_last_molecule.png" />
+ <img src="https://imgs.xkcd.com/comics/incident_report.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
