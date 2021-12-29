@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/december_25th_launch.png" />
+ <img src="https://imgs.xkcd.com/comics/confounding_variables.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
