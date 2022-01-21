@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/hypothesis_generation.png" />
+ <img src="https://imgs.xkcd.com/comics/captain_picard_tea_order.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
