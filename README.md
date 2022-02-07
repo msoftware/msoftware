@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/control_group.png" />
+ <img src="https://imgs.xkcd.com/comics/sea_chase.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
