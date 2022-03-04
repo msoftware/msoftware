@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/for_the_sake_of_simplicity.png" />
+ <img src="https://imgs.xkcd.com/comics/party_quadrants.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
