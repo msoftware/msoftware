@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/consensus_time.png" />
+ <img src="https://imgs.xkcd.com/comics/advanced_techniques.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
