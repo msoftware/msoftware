@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/spacecraft_debris_odds_ratio.png" />
+ <img src="https://imgs.xkcd.com/comics/rejected_question_categories.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
