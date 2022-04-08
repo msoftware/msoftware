@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/linguistics_degree.png" />
+ <img src="https://imgs.xkcd.com/comics/childhood_toys.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
