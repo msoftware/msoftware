@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png" />
+ <img src="https://imgs.xkcd.com/comics/geiger_counter.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
