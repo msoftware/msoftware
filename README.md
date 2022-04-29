@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png" />
+ <img src="https://imgs.xkcd.com/comics/lightsabers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
