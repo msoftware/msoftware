@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/field_topology.png" />
+ <img src="https://imgs.xkcd.com/comics/d65536.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
