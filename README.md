@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/exercise_progression.png" />
+ <img src="https://imgs.xkcd.com/comics/greatest_scientist.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
