@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/red_line_through_https.png" />
+ <img src="https://imgs.xkcd.com/comics/superintelligent_ais.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
