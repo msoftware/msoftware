@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/meta_alternating_current.png" />
+ <img src="https://imgs.xkcd.com/comics/cosmologist_gift.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
