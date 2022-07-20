@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/minkowski_space.png" />
+ <img src="https://imgs.xkcd.com/comics/capri_suns.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
