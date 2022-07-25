@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/chemicals.png" />
+ <img src="https://imgs.xkcd.com/comics/physics_cost_saving_tips.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
