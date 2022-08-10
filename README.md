@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/asking_scientists_questions.png" />
+ <img src="https://imgs.xkcd.com/comics/scientific_field_prefixes.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
