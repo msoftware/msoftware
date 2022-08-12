@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/scientific_field_prefixes.png" />
+ <img src="https://imgs.xkcd.com/comics/complex_vowels.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
