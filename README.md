@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/age_milestone_privileges.png" />
+ <img src="https://imgs.xkcd.com/comics/physics_safety_tip.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
