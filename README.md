@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/physics_safety_tip.png" />
+ <img src="https://imgs.xkcd.com/comics/tetherball_configurations.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
