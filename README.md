@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/universe_price_tiers.png" />
+ <img src="https://imgs.xkcd.com/comics/first_internet_interaction.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
