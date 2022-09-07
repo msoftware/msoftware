@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/first_internet_interaction.png" />
+ <img src="https://imgs.xkcd.com/comics/artemis_quote.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
