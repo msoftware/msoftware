@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png" />
+ <img src="https://imgs.xkcd.com/comics/everyday_carry.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
