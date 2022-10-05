@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/quantified_self.png" />
+ <img src="https://imgs.xkcd.com/comics/battery_life.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
