@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/archimedes_principle.png" />
+ <img src="https://imgs.xkcd.com/comics/easy_or_hard.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
