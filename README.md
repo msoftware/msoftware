@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/precision_vs_accuracy.png" />
+ <img src="https://imgs.xkcd.com/comics/y2k_and_2038.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
