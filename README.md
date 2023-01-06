@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/hydrogen_isotopes.png" />
+ <img src="https://imgs.xkcd.com/comics/biology_vs_robotics.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
