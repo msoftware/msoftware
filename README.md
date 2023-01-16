@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/outdated_periodic_table.png" />
+ <img src="https://imgs.xkcd.com/comics/washing_machine_settings.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
