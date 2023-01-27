@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/lane_change_highway.png" />
+ <img src="https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
