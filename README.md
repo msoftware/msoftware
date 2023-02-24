@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/square_packing.png" />
+ <img src="https://imgs.xkcd.com/comics/wish_interpretation.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
