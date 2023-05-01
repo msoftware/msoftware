@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/definition_of_e.png" />
+ <img src="https://imgs.xkcd.com/comics/overlapping_circles.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
