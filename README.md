@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/garden_path_sentence.png" />
+ <img src="https://imgs.xkcd.com/comics/alphabet_notes.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
