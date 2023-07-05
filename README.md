@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/real_estate_analysis.png" />
+ <img src="https://imgs.xkcd.com/comics/actual_progress.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
