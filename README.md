@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/geohydrotypography.png" />
+ <img src="https://imgs.xkcd.com/comics/marshmallow.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
