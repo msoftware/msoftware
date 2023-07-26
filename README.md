@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/global_atmospheric_circulation.png" />
+ <img src="https://imgs.xkcd.com/comics/anti_vaxxers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
