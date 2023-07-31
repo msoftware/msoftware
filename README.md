@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png" />
+ <img src="https://imgs.xkcd.com/comics/daytime_firefly.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
