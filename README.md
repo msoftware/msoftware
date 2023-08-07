@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/how_to_coil_a_cable.png" />
+ <img src="https://imgs.xkcd.com/comics/free_fallin.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
