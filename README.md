@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/xkcd_phone_flip.png" />
+ <img src="https://imgs.xkcd.com/comics/urban_planning_opinion_progression.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
