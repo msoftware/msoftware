@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/book_podcasts.png" />
+ <img src="https://imgs.xkcd.com/comics/factorial_numbers.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
