@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/professional_oaths.png" />
+ <img src="https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
