@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/redshift.png" />
+ <img src="https://imgs.xkcd.com/comics/date_line.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
