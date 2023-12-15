@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/snow.png" />
+ <img src="https://imgs.xkcd.com/comics/datetime.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
