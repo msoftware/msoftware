@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/like_this_one.png" />
+ <img src="https://imgs.xkcd.com/comics/sheet_bend.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
