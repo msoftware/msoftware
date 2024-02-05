@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/us_survey_foot.png" />
+ <img src="https://imgs.xkcd.com/comics/greenhouse_effect.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
