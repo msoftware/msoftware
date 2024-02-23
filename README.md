@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/crossword_constructors.png" />
+ <img src="https://imgs.xkcd.com/comics/light_leap_years.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
