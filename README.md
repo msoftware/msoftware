@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/light_leap_years.png" />
+ <img src="https://imgs.xkcd.com/comics/orbital_argument.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
