@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/ice_core.png" />
+ <img src="https://imgs.xkcd.com/comics/earth_venus_venn_diagram.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
