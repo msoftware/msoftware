@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png" />
+ <img src="https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
