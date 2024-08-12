@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/vice_president_first_names.png" />
+ <img src="https://imgs.xkcd.com/comics/meteor_shower_psa.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
