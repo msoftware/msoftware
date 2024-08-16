@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/celestial_event.png" />
+ <img src="https://imgs.xkcd.com/comics/helium_synthesis.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
