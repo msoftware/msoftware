@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/lava_lakes.png" />
+ <img src="https://imgs.xkcd.com/comics/slingshots.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
