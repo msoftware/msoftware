@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/craters.png" />
+ <img src="https://imgs.xkcd.com/comics/every_scientific_field.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
