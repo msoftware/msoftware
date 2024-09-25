@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/maslows_pyramid.png" />
+ <img src="https://imgs.xkcd.com/comics/physics_lab_thermostat.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
