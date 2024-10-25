@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/temperature_scales.png" />
+ <img src="https://imgs.xkcd.com/comics/rnaworld.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
