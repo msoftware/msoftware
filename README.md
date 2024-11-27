@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/dnd_combinatorics.png" />
+ <img src="https://imgs.xkcd.com/comics/cold_air.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
