@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/neutrino_modem.png" />
+ <img src="https://imgs.xkcd.com/comics/second_stage.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
