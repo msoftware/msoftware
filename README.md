@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png" />
+ <img src="https://imgs.xkcd.com/comics/infinite_armada_chess.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
