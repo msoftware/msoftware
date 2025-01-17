@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/radon.png" />
+ <img src="https://imgs.xkcd.com/comics/uncanceled_units.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
