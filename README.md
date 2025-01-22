@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/human_altitude.png" />
+ <img src="https://imgs.xkcd.com/comics/chemical_formulas.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
