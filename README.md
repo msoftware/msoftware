@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/reading_a_big_number.png" />
+ <img src="https://imgs.xkcd.com/comics/exoplanet_system.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
