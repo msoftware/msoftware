@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/building_a_fire.png" />
+ <img src="https://imgs.xkcd.com/comics/unsolved_physics_problems.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
