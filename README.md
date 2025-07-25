@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png" />
+ <img src="https://imgs.xkcd.com/comics/flettner_rotor.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
