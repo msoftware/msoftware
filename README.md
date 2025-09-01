@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/wavefunction_collapse.png" />
+ <img src="https://imgs.xkcd.com/comics/sea_level.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
