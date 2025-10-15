@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/hot_water_balloon.png" />
+ <img src="https://imgs.xkcd.com/comics/physics_insight.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
