@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/emperor_palpatine.png" />
+ <img src="https://imgs.xkcd.com/comics/shielding_chart.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
