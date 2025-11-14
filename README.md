@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/big_and_little_spoons.png" />
+ <img src="https://imgs.xkcd.com/comics/car_size.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
