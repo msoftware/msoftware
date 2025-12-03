@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/bridge_clearance.png" />
+ <img src="https://imgs.xkcd.com/comics/website_task_flowchart.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
