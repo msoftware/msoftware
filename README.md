@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/inverted_catenaries.png" />
+ <img src="https://imgs.xkcd.com/comics/chessboard_alignment.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
