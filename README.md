@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/truly_universal_outlet.png" />
+ <img src="https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
