@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/conic_sections.png" />
+ <img src="https://imgs.xkcd.com/comics/tensegrity.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
