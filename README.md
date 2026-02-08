@@ -1,5 +1,6 @@
 ### Hi there, I'm Michael 👋
 
+<!-- Snake game is not working -->
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msoftware&theme=vue)
