@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/bazookasaurus.png" />
+ <img src="https://imgs.xkcd.com/comics/home_remedies.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
