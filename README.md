@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/europa_missions.png" />
+ <img src="https://imgs.xkcd.com/comics/types_of_board_game.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
