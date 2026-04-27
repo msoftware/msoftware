@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/border_message.png" />
+ <img src="https://imgs.xkcd.com/comics/husband_and_wife.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
