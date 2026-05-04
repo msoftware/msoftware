@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/simple_machines.png" />
+ <img src="https://imgs.xkcd.com/comics/bottle.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
