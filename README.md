@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/side_effect.png" />
+ <img src="https://imgs.xkcd.com/comics/sports_commentary.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
