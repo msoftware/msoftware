@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/holes.png" />
+ <img src="https://imgs.xkcd.com/comics/types_of_tornado_alert.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
