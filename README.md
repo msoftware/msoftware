@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/latitude_and_longitude.png" />
+ <img src="https://imgs.xkcd.com/comics/arthurian_connector.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
