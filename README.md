@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/geology_building.png" />
+ <img src="https://imgs.xkcd.com/comics/accretionary_arc.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
