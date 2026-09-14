@@ -21,7 +21,7 @@
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/fault_taunting.png" />
+ <img src="https://imgs.xkcd.com/comics/oh_scale.png" />
 </a>
 </p>
 <!--END_SECTION:comicstrip-->
